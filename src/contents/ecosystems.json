@@ -500,9 +500,9 @@
   "twitter": "",
   "telegram": ""
 },{  
-  "icon": "network-monitor.png",
-  "title": "Network Monitor",
-  "text": "",
+  "icon": "bronbro_monitor.png",
+  "title": "On-Chain Stat Monitor",
+  "text": "Advanced tool with on-chain analytics for daily usage",
   "category": "Tool",
   "website": "https://monitor.bronbro.io/d/juno-stats/juno-stats",
   "github": "https://github.com/",
